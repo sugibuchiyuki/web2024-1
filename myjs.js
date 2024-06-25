@@ -1,3 +1,7 @@
 alert("Hello,Osamu!");
 alert(1+1);
-slert(Math.sqrt(1+1));
+alert(Math.sqrt(1+1));
+alert(Math.sqrt(3))+(Math.sqrt(2))
+alert(1/0);
+alert(0/0);
+
